@@ -5,3 +5,4 @@ ustage
 stage
 commit y push
 comit
+haces un fork para poner todos tus branchs
